@@ -1,11 +1,17 @@
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 217eb899737348e2e3d70a997718a59568d2a0a2
 body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+<<<<<<< HEAD
   font-size: 200%;
+=======
+>>>>>>> 217eb899737348e2e3d70a997718a59568d2a0a2
 }
 
 h1 {
@@ -25,6 +31,15 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
@@ -35,6 +50,7 @@ p {
   margin-top: 0;
 }
 
+
 .top-container {
   background-color: #EAF6F6;
   padding-top: 100px;
@@ -42,6 +58,7 @@ p {
 }
 
 .middle-container {
+<<<<<<< HEAD
   background-color: #66BFBF;
   height: 200px;
   width: 100%;
@@ -51,11 +68,22 @@ p {
   background-color: #377D71;
   height: 200px;
   width: 100%;
+=======
+
+}
+
+.bottom-container {
+
+>>>>>>> 217eb899737348e2e3d70a997718a59568d2a0a2
 }
 
 .top-cloud {
   position: absolute;
+<<<<<<< HEAD
   top: 30px;
+=======
+  top: 50px;
+>>>>>>> 217eb899737348e2e3d70a997718a59568d2a0a2
   right: 300px;
 }
 
