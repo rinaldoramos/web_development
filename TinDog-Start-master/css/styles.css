@@ -98,8 +98,12 @@ p {
 #testimonials {
   background-color: #ff4c68;
   color: #fff;
-  padding: 7% 15%;
   text-align: center;
+  /* padding: 5%; */
+}
+
+#testimonial-carousel {
+  /* height: 100%; */
 }
 
 .testimonial-image {
@@ -108,10 +112,14 @@ p {
   margin: 20px;
 }
 
+.carousel-item {
+  padding: 7% 15%;
+}
+
 #press {
   background-color: #ff4c68;
+  /* padding-bottom: 3%; */
   text-align: center;
-  padding-bottom: 3%;
 }
 
 .press-logo {
